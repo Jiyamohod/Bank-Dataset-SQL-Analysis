@@ -1,0 +1,11 @@
+ATMID,Location,InstalledDate,Status
+1,"378 Main St, Anytown, USA",2022-03-12,Operational
+2,"970 Elm St, Anytown, USA",2022-04-25,Operational
+3,"66 Main St, Anytown, USA",2022-11-11,Operational
+4,"153 Elm St, Anytown, USA",2023-03-20,Operational
+5,"487 Park Ave, Anytown, USA",2023-08-15,Operational
+6,"63 Elm St, Anytown, USA",2022-07-09,Out of Service
+7,"101 Main St, Anytown, USA",2023-07-10,Out of Service
+8,"652 Park Ave, Anytown, USA",2023-11-02,Out of Service
+9,"823 Park Ave, Anytown, USA",2022-12-30,Operational
+10,"601 Park Ave, Anytown, USA",2023-06-13,Operational

@@ -1,0 +1,101 @@
+CustomerID,Name,Age,Gender,Address,PhoneNumber,Email
+1,James Williams,21,Female,"651 Lake St, Philadelphia, PA",12839232977,jameswilliams@yahoo.com
+2,William Brown,41,Female,"631 Main St, Chicago, NY",13623106094,williambrown@outlook.com
+3,John Miller,69,Female,"258 Elm St, San Antonio, PA",19582400760,johnmiller@aol.com
+4,Isabella Jones,64,Male,"837 Washington St, San Antonio, IL",16638860403,isabellajones@yahoo.com
+5,Jane Davis,59,Male,"403 Main St, Houston, TX",14674802399,janedavis@aol.com
+6,James Johnson,65,Female,"720 Lake St, San Antonio, CA",12387512838,jamesjohnson@aol.com
+7,Emily Jones,23,Female,"75 Park Ave, San Diego, NY",15713857589,emilyjones@yahoo.com
+8,Michael Brown,47,Male,"207 Broadway, Houston, AZ",11967752840,michaelbrown@aol.com
+9,Emily Rodriguez,51,Male,"862 Washington St, Chicago, AZ",15104811059,emilyrodriguez@aol.com
+10,John Davis,63,Female,"725 Broadway, San Antonio, AZ",12475773659,johndavis@outlook.com
+11,William Johnson,22,Male,"129 Maple Ave, Los Angeles, CA",15810002554,williamjohnson@aol.com
+12,Isabella Rodriguez,42,Female,"440 Maple Ave, Houston, CA",11323898093,isabellarodriguez@outlook.com
+13,James Davis,69,Male,"175 Cedar St, Los Angeles, AZ",14566187836,jamesdavis@aol.com
+14,Daniel Johnson,64,Male,"468 Washington St, New York, IL",12965927038,danieljohnson@gmail.com
+15,Olivia Rodriguez,55,Female,"126 Washington St, San Antonio, NY",11117183935,oliviarodriguez@hotmail.com
+16,William Williams,66,Female,"783 Cedar St, Phoenix, PA",16703958139,williamwilliams@yahoo.com
+17,Emily Brown,22,Male,"491 Washington St, Los Angeles, TX",10194897365,emilybrown@hotmail.com
+18,Jane Brown,31,Female,"730 Cedar St, Los Angeles, CA",15430777177,janebrown@aol.com
+19,Daniel Williams,64,Female,"872 Broadway, Philadelphia, IL",12719394720,danielwilliams@hotmail.com
+20,Sophia Davis,58,Female,"578 Broadway, Los Angeles, AZ",13698048623,sophiadavis@yahoo.com
+21,Olivia Miller,38,Male,"632 Cedar St, Chicago, NY",15187056570,oliviamiller@yahoo.com
+22,Jane Miller,25,Male,"36 Washington St, San Antonio, AZ",11678963773,janemiller@yahoo.com
+23,Emily Jones,62,Male,"261 Broadway, Phoenix, PA",13389031849,emilyjones@hotmail.com
+24,Isabella Miller,26,Female,"168 Park Ave, Houston, TX",13152155955,isabellamiller@yahoo.com
+25,Olivia Jones,35,Female,"115 Maple Ave, Chicago, AZ",12306582070,oliviajones@aol.com
+26,Michael Brown,50,Male,"396 Broadway, Philadelphia, NY",17337458292,michaelbrown@yahoo.com
+27,John Davis,64,Male,"652 Park Ave, San Diego, CA",15215596876,johndavis@hotmail.com
+28,Isabella Jones,66,Female,"749 Elm St, Philadelphia, TX",10066916375,isabellajones@yahoo.com
+29,John Johnson,51,Female,"798 Elm St, New York, CA",17956394251,johnjohnson@gmail.com
+30,Jane Jones,27,Male,"668 Maple Ave, Los Angeles, PA",19564797836,janejones@aol.com
+31,William Jones,52,Female,"86 Park Ave, Los Angeles, CA",17832787719,williamjones@hotmail.com
+32,Isabella Williams,34,Male,"328 Lake St, Houston, CA",12531481387,isabellawilliams@yahoo.com
+33,Michael Jones,56,Female,"819 Elm St, Phoenix, IL",15178353960,michaeljones@outlook.com
+34,William Martinez,61,Male,"147 Elm St, San Antonio, TX",12470144356,williammartinez@yahoo.com
+35,William Rodriguez,45,Female,"113 Elm St, San Antonio, TX",15748703435,williamrodriguez@gmail.com
+36,John Brown,18,Female,"217 Cedar St, New York, IL",12399809660,johnbrown@hotmail.com
+37,Michael Brown,64,Female,"331 Park Ave, San Diego, PA",16913693316,michaelbrown@hotmail.com
+38,James Rodriguez,21,Female,"650 Cedar St, Chicago, NY",16910406689,jamesrodriguez@outlook.com
+39,Sophia Davis,22,Male,"234 Main St, Chicago, NY",18483935766,sophiadavis@gmail.com
+40,Isabella Davis,18,Female,"321 Maple Ave, San Antonio, IL",15773294117,isabelladavis@hotmail.com
+41,James Brown,52,Male,"813 Broadway, Phoenix, AZ",18439363452,jamesbrown@hotmail.com
+42,Olivia Jones,61,Female,"942 Washington St, Chicago, AZ",10056014039,oliviajones@hotmail.com
+43,James Smith,30,Female,"8 Broadway, Chicago, IL",11496315456,jamessmith@yahoo.com
+44,Daniel Brown,51,Female,"465 Park Ave, Chicago, TX",18787365279,danielbrown@gmail.com
+45,Sophia Johnson,56,Female,"344 Washington St, Houston, IL",12435193720,sophiajohnson@yahoo.com
+46,William Johnson,44,Male,"188 Maple Ave, Philadelphia, AZ",18996645997,williamjohnson@yahoo.com
+47,James Brown,23,Male,"82 Park Ave, San Diego, AZ",14126025548,jamesbrown@gmail.com
+48,Sophia Smith,51,Female,"967 Broadway, Phoenix, TX",14390897008,sophiasmith@aol.com
+49,Isabella Williams,43,Female,"649 Lake St, Philadelphia, TX",18451703291,isabellawilliams@yahoo.com
+50,Olivia Miller,25,Male,"158 Washington St, New York, IL",12502041543,oliviamiller@yahoo.com
+51,Michael Martinez,68,Male,"551 Elm St, Los Angeles, IL",12533866274,michaelmartinez@aol.com
+52,Olivia Jones,51,Female,"588 Lake St, San Diego, IL",17127874200,oliviajones@yahoo.com
+53,Michael Jones,21,Male,"910 Lake St, Phoenix, NY",11759912173,michaeljones@yahoo.com
+54,Jane Rodriguez,67,Female,"692 Cedar St, Philadelphia, PA",11114806798,janerodriguez@gmail.com
+55,John Johnson,68,Female,"204 Broadway, San Antonio, IL",13834666242,johnjohnson@hotmail.com
+56,Daniel Johnson,26,Female,"648 Broadway, Los Angeles, PA",14759578424,danieljohnson@hotmail.com
+57,Jane Davis,20,Male,"725 Washington St, Philadelphia, CA",11011850321,janedavis@gmail.com
+58,Emily Jones,35,Female,"120 Lake St, Phoenix, PA",10410479065,emilyjones@yahoo.com
+59,Michael Rodriguez,35,Female,"415 Main St, Philadelphia, CA",10939816108,michaelrodriguez@hotmail.com
+60,Michael Smith,62,Female,"210 Maple Ave, San Antonio, TX",13201649064,michaelsmith@outlook.com
+61,Olivia Davis,47,Male,"325 Cedar St, San Diego, CA",12486662439,oliviadavis@hotmail.com
+62,John Rodriguez,31,Female,"409 Elm St, San Diego, PA",16941523936,johnrodriguez@outlook.com
+63,Sophia Rodriguez,70,Female,"99 Main St, Houston, PA",17048275874,sophiarodriguez@yahoo.com
+64,Olivia Johnson,65,Female,"425 Elm St, New York, PA",18607526279,oliviajohnson@outlook.com
+65,Sophia Garcia,21,Male,"139 Washington St, Philadelphia, NY",10428611097,sophiagarcia@yahoo.com
+66,John Williams,60,Female,"747 Broadway, Chicago, AZ",13004394182,johnwilliams@yahoo.com
+67,John Johnson,46,Male,"796 Cedar St, San Diego, PA",13783679990,johnjohnson@yahoo.com
+68,Olivia Davis,25,Male,"734 Park Ave, Houston, CA",18151169721,oliviadavis@gmail.com
+69,William Miller,70,Male,"335 Broadway, Chicago, IL",16510679070,williammiller@aol.com
+70,Daniel Williams,53,Female,"484 Park Ave, Los Angeles, PA",19097784106,danielwilliams@gmail.com
+71,Jane Davis,67,Male,"693 Broadway, New York, CA",11821594118,janedavis@aol.com
+72,Sophia Brown,31,Female,"171 Maple Ave, Philadelphia, CA",14502788652,sophiabrown@gmail.com
+73,Daniel Davis,47,Female,"804 Washington St, Phoenix, AZ",19963908405,danieldavis@yahoo.com
+74,Michael Garcia,53,Female,"4 Maple Ave, Chicago, PA",13008343531,michaelgarcia@outlook.com
+75,Isabella Martinez,57,Female,"94 Park Ave, Los Angeles, AZ",13208922059,isabellamartinez@aol.com
+76,Isabella Garcia,53,Female,"461 Broadway, Philadelphia, AZ",13002475273,isabellagarcia@hotmail.com
+77,Michael Miller,24,Male,"300 Maple Ave, San Antonio, PA",13656250483,michaelmiller@outlook.com
+78,Daniel Jones,25,Female,"740 Cedar St, Philadelphia, AZ",16151677533,danieljones@aol.com
+79,Olivia Jones,62,Female,"776 Elm St, Los Angeles, PA",19286085896,oliviajones@outlook.com
+80,John Smith,65,Male,"912 Broadway, Chicago, TX",17823497114,johnsmith@hotmail.com
+81,John Garcia,30,Male,"568 Cedar St, San Antonio, IL",13437730783,johngarcia@outlook.com
+82,John Brown,19,Female,"556 Elm St, San Antonio, TX",17092544671,johnbrown@outlook.com
+83,Emily Brown,21,Female,"434 Maple Ave, Chicago, CA",16722655959,emilybrown@hotmail.com
+84,William Brown,59,Female,"169 Lake St, Philadelphia, TX",11399726993,williambrown@gmail.com
+85,James Jones,57,Male,"91 Broadway, Los Angeles, NY",16982632497,jamesjones@hotmail.com
+86,Isabella Garcia,58,Female,"700 Park Ave, New York, IL",19225485947,isabellagarcia@yahoo.com
+87,James Garcia,25,Female,"683 Washington St, Los Angeles, IL",17568025913,jamesgarcia@yahoo.com
+88,Jane Jones,47,Female,"855 Park Ave, San Diego, NY",10949033521,janejones@gmail.com
+89,John Williams,35,Female,"449 Main St, Chicago, PA",12318269501,johnwilliams@gmail.com
+90,Olivia Rodriguez,59,Female,"57 Park Ave, Chicago, IL",17010326883,oliviarodriguez@yahoo.com
+91,John Johnson,65,Male,"365 Maple Ave, Philadelphia, NY",11111228744,johnjohnson@yahoo.com
+92,Olivia Davis,19,Female,"843 Lake St, New York, PA",17919214164,oliviadavis@aol.com
+93,Daniel Williams,44,Male,"559 Washington St, San Diego, NY",19567990609,danielwilliams@gmail.com
+94,Isabella Smith,26,Male,"20 Lake St, Philadelphia, IL",12478201179,isabellasmith@outlook.com
+95,Emily Davis,62,Male,"225 Washington St, Chicago, CA",10843274935,emilydavis@outlook.com
+96,William Johnson,23,Female,"994 Washington St, Los Angeles, CA",18538595668,williamjohnson@outlook.com
+97,Michael Davis,38,Female,"774 Elm St, San Diego, NY",17830559205,michaeldavis@hotmail.com
+98,Sophia Garcia,40,Female,"535 Washington St, Philadelphia, TX",16257556391,sophiagarcia@aol.com
+99,Jane Brown,41,Male,"897 Main St, New York, PA",15894334835,janebrown@outlook.com
+100,William Miller,66,Female,"860 Main St, San Diego, AZ",11554033062,williammiller@gmail.com
